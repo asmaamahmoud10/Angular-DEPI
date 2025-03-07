@@ -1,0 +1,30 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+}
+
+.output-text {
+margin-top: 20px;
+font-size: 22px;
+color: #333;
+}
+
+
+input {
+padding: 10px;
+font-size: 18px;
+border-radius: 5px;
+width: 250px;
+margin-top: 10px;
+outline: none;
+}
+
+.custom-table {
+    width: 70%;
+    font-size: 18px;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+
